@@ -1,5 +1,7 @@
 {
-  "valid_keys": {
-    "KEY-ABCD-1234": "2026-06-12T16:53:00Z"
-  }
+  "valid_keys": [
+    "KEY-ABCD-1234",
+    "YOUR-CUSTOM-LICENSE-KEY-1",
+    "YOUR-CUSTOM-LICENSE-KEY-2"
+  ]
 }
